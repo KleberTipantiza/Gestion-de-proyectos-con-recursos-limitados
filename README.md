@@ -5,5 +5,7 @@ Una empresa desea gestionar múltiples proyectos simultáneamente. Cada proyecto
 Detalles del problema:
 
 Proyectos: Hay n proyectos, cada uno con un beneficio asociado (valor) y una cantidad de recursos necesarios para su ejecución.
+
 Recursos disponibles: La empresa tiene un total de R unidades de recursos disponibles.
+
 Objetivo: Se debe seleccionar un conjunto de proyectos tal que el beneficio total sea maximizado sin que se excedan los R recursos disponibles.
